@@ -22,7 +22,7 @@ const App = () => {
           />
         </View>
         
-        <Text style={styles.productName}>MILK CHOCOLATE 43% COCOA 80G</Text>
+        <Text style={styles.productName}>CHOCOLATE MEIO AMARGO 40% COCOA 80G</Text>
         
         <View style={styles.descriptionContainer}>
           <Text style={styles.description}>
